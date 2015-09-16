@@ -1,0 +1,6 @@
+{
+  "preset": "airbnb",
+  "disallowSpacesInAnonymousFunctionExpression": null,
+  "requireCamelCaseOrUpperCaseIdentifiers": "ignoreProperties",
+  "excludeFiles": ["node_modules/**", "coverage/**"]
+}
